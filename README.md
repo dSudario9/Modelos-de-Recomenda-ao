@@ -1,2 +1,2 @@
-# Modelos-de-Recomenda-ao
+# Modelos-de-Recomendacao
 Diversos modelos de recomendação para Estudos e projetos. 
